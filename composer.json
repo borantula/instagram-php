@@ -16,6 +16,7 @@
         }
     ],
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
       "psr-4": {"Webmakersteve\\": "lib/"}
     }
